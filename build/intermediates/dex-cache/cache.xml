@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_bed8ae57e219eecd63fe1328e6cc0e67dbf81820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_8ed81ac5a9cf28e0a6699623ecf2a607ad6c472a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\libs\httpmime-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.2_4d080e447a3cfff6612ea468f0122839751cb259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b2ffc351b98e5a0e542734661d002fb91490d6a">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a44cb6de6decbcbc50d97082518575a6f056a7b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\exploded-aar\com.zzti.fengyongge\imagepicker\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd95fcd99104f9d2fb0726404201a7f89d56b169">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.zzti.fengyongge-imagepicker-1.0_e7d121cdd3d80c2673ad6415b2956d1771a99d08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha8_cd822a6db9de0701d4483e2c2859348df5f426a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_d3af3516828f1fafa6b10dfa75ec5043a8b5210a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha8_a161dd5d475aa54c6047286ca908773ef0830ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.52.android\6fcd2df42d3576368514855c72baabe3b6e318e0\fastjson-1.1.52.android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6fcd2df42d3576368514855c72baabe3b6e318e0">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.1.52.android_f4a1735c260e998ad64fcfc8da8a87b1eafab048\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_92f5e358d86a6e9147fed9c71e1e315447abaaff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_001a3ce85eabdaff417e6b4dc36d7c40f07eabbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="898ac7b7925c4bb9905a8c17b232eee492d204c5">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8a4b94e19cc9d37911ea49ec12071e7f21a3bdab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_397e682f81a90ee78c74b4633dae79a7450f65cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UploadImages\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\UploadImages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_459d3dfc1441c57d0b6a328802a041e648ea8b12\classes.dex" />
+    </item>
+
+</items>
